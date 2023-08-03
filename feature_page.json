@@ -1,0 +1,165 @@
+{
+    "common_highlight_one": {
+        "icon":"🧩",
+        "title": "Membawa Perayaanmu Ke Level Selanjutnya",
+        "description": "Ragam pilihan fitur yang mengesankan untuk membuat undangan yang mencuri perhatian."
+    },
+    "feature_collection": [
+        {
+            "icon": "🖼️",
+            "title": "Galeri Photo"
+        },
+        { 
+            "icon": "🎶",
+            "title": "Music"
+        },
+        { 
+            "icon": "▶️",
+            "title": "Video"
+        },
+        { 
+            "icon": "🗺️",
+            "title": "Navigasi Lokasi"
+        },
+        { 
+            "icon": "⏳",
+            "title": "Penghitung Mundur"
+        },
+        { 
+            "icon": "📝",
+            "title": "Kolom Ucapan"
+        },
+        { 
+            "icon": "🎁",
+            "title": "Kolom Hadiah"
+        },
+        { 
+            "icon": "🗒️",
+            "title": "RSVP"
+        },
+        { 
+            "icon": "📨",
+            "title": "WA Automatic"
+        },
+        {
+            "icon":  "🌐",
+            "title": "Custom Domain"
+        },
+        {
+            "icon":  "⌚",
+            "title": "Reminder"
+        },
+        {
+            "icon":  "️📅",
+            "title": "Save To Calendar"
+        },
+        {
+            "icon":  "️🎥",
+            "title": "Live Streaming Link"
+        },
+        {
+            "icon":  "️🎚️",
+            "title": "Event Manager"
+        },
+        {
+            "icon":  "️📬",
+            "title": "Costum Undangan"
+        }
+    ],
+    "common_highlight_two": {
+        "icon":"",
+        "title": "Dipersonalisasi untuk Anda",
+        "description": "Temukan varian produk yang sesuai dengan selera dan anggaran mu."
+    },
+    "features_pricing": [
+        {
+            "emoji": "🥈",
+            "title": "Paket Teman Terbaik",
+            "price": 90000,
+            "description": "Short description",
+            "features": [
+                "Galeri foto",
+                "Latar musik",
+                "Perhitungan mundur",
+                "Kolom ucapan",
+                "Kolom hadiah",
+                "Link live streaming",
+                "WA otomatis (sesuai range umur)"
+            ],
+            "link": {
+                "title": "Enabled",
+                "url": "/feature"
+            }
+        },
+        {
+            "emoji": "🥇",
+            "title": "Paket Sahabat Sejati",
+            "price": 499000,
+            "description": "Short description",
+            "features": [
+                "Galeri foto",
+                "Latar musik",
+                "Perhitungan mundur",
+                "Kolom ucapan",
+                "Kolom hadiah",
+                "Link live streaming",
+                "WA otomatis (sesuai range umur)",
+                 "Video prewedding",
+                "Kustomisasi nama undangan",
+                "RSVP",
+                "Reminder",
+                "penghubung ke kalender",
+                "Kustomisasi Domain",
+                "Event manager"
+            ],
+            "link": {
+                "title": "Enabled",
+                "url": "/feature"
+            }
+        },
+        {
+            "emoji": "🏅",
+            "title": "Paket Kreasi",
+            "price": 100000,
+            "description": "Short description",
+            "features": [
+                "Kreasi ragam fitur sesuai",
+                "Kebutuhan",
+                "Didesign khusus untukmu" 
+            ],
+            "link": {
+                "title": "Enabled",
+                "url": "/feature"
+            }
+        }
+    ],
+    "features_galleries": {
+        "galleries": [
+            {
+                "title": "Tab Pertama",
+                "images": [
+                    "/images/image1.png",
+                    "/images/image1.png",
+                    "/images/image1.png",
+                    "/images/image1.png",
+                    "/images/image1.png"
+                ]
+            },
+            {
+                "title": "Tab Kedua",
+                "images": [
+                    "/images/image1.png",
+                    "/images/image1.png",
+                    "/images/image1.png",
+                    "/images/image1.png",
+                    "/images/image1.png"
+                ]
+            }
+        ],
+        "notes": "*Klik foto untuk melihat detil katalog",
+        "link": {
+            "title": "Order Sekarang",
+            "url": "/order"
+        }
+    }
+}

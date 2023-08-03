@@ -1,0 +1,71 @@
+{
+    "common_highlight_one": {
+        "icon": "💝",
+        "title": "Langkah Menuju Momen Spesial",
+        "description": "Ikuti langkah sederhana dan nikmati kemudahan dalam mewujudkan perayaan impian mu."
+    },
+    "direct_order": [
+        {
+            "image": "/images/avatar.png",
+            "title": "Header",
+            "content":"Subhead"
+        },
+        {
+            "image": "/images/avatar.png",
+            "title": "Header",
+            "content":"Subhead"
+        },
+        {
+            "image": "/images/avatar.png",
+            "title": "Header",
+            "content":"Subhead"
+        }
+    ],
+    "reach_us": {
+        "notes":"Order melalui CS kami yang cantik",
+        "link": {
+            "title": "Order sekarang",
+            "url": "/reach-us"
+        }
+    },
+    "common_highlight_two": {
+        "icon":"",
+        "title": "Pesan Dengan Sejuta Kemudahaan",
+        "description": "Pesanan yang simple dengan order form yang efisien."
+    },
+    "custom_order": {
+        "list": [
+            {
+               "title": "Tab 1",
+               "subtitle": "Subtitle #1",
+                "list":[
+                    "Option 1",
+                    "Option 2",
+                    "Option 3"
+                ]
+            },
+            {
+                "title": "Tab 2",
+                "subtitle": "Subtitle #2",
+                "list":[
+                     "Option 1",
+                     "Option 2",
+                     "Option 3"
+                ]
+            },
+            {
+                "title": "Tab 3",
+                "subtitle": "Subtitle #3",
+                "list":[
+                     "Option 1",
+                     "Option 2",
+                     "Option 3"
+                ]
+            }
+        ],
+        "link": {
+            "title": "Next",
+            "url": "/costum-order"
+        }
+    }
+}

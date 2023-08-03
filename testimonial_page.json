@@ -1,0 +1,101 @@
+{
+    "common_highlight_one": {
+        "icon":"💌",
+        "title": "Suara Dari Mulut Ke Mulut",
+        "description": "Suara yang mengesankan dari para pelanggan menyampaikan kepuasan mereka dalam pengalaman unik dan tak terlupakan."
+    },
+    "testimonial_collection": [
+        {
+            "emoji": "💌",
+            "avatar": "/images/avatar.png",
+            "name": "Tommyansyah",
+            "title": "Suara Dari Mulut Ke Mulut",
+            "feedback":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "rating": 3,
+            "created_at": "04/07/2023"
+        },
+        {   
+            "emoji": "💌",
+            "avatar": "/images/avatar.png",
+            "name": "Nadi Herlambang",
+            "title": "Suara Dari Mulut Ke Mulut",
+            "feedback":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "rating": 5,
+            "created_at": "01/07/2023"
+        },
+        {   
+            "emoji": "💌",
+            "avatar": "/images/avatar.png",
+            "name": "Albert Ade",
+            "title": "Suara Dari Mulut Ke Mulut",
+            "feedback":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "rating": 5,
+            "created_at": "01/06/2023"
+        },
+        {   
+            "emoji": "💌",
+            "avatar": "/images/avatar.png",
+            "name": "Nadi Herlambang",
+            "title": "Suara Dari Mulut Ke Mulut",
+            "feedback":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "rating": 5,
+            "created_at": "01/07/2023"
+        },
+        {   
+            "emoji": "💌",
+            "avatar": "/images/avatar.png",
+            "name": "Albert Ade",
+            "title": "Suara Dari Mulut Ke Mulut",
+            "feedback":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "rating": 5,
+            "created_at": "01/06/2023"
+        },
+        {   
+            "emoji": "💌",
+            "avatar": "/images/avatar.png",
+            "name": "William Yuto",
+            "title": "Suara Dari Mulut Ke Mulut",
+            "feedback":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "rating": 4,
+            "created_at": "04/07/2023"
+        }
+    ],
+    "common_highlight_two": {
+        "icon":"",
+        "title": "Momen Yang Tidak Akan Terlupakan",
+        "description": "Kumpulan karya penuh inspirasi dan mengesankan, mengabadikan momen tak terlupakan dalam berbagai perayaan dengan sentuhan keindahan, kreativitas, dan gaya yang unik."
+    },
+    "portfolio_galleries": {
+        "images": [
+            {
+               "title": "Gallery Robby",
+               "image": "/images/testimonial/gallery1.png"
+            },
+            {
+               "title": "Gallery Arundra",
+               "image": "/images/testimonial/gallery2.png"
+            },
+            {
+               "title": "Gallery Bong",
+               "image": "/images/testimonial/gallery3.png"
+            },
+            {
+               "title": "Gallery Robby",
+               "image": "/images/testimonial/gallery1.png"
+            },
+            {
+               "title": "Gallery Arundra",
+               "image": "/images/testimonial/gallery2.png"
+            },
+            {
+               "title": "Gallery Bong",
+               "image": "/images/testimonial/gallery3.png"
+            }
+        ],
+        "notes":"*Klik foto untuk melihat detil portofolio",
+        "link": {
+            "title": "Lihat Fitur Yang Kami Tawarkan",
+            "url": "/testimonial"
+        }
+    }
+}

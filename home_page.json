@@ -1,0 +1,87 @@
+{
+    "main_masthead": {
+        "title": "Awal Momen Bahagia Dimulai",
+        "description": "Ingin membuat undangan momen bahagia yang tak terlupakan?",
+        "link": {
+            "icon": "/icons/whatsapp.svg",
+            "title": "Hubungi Kami Sekarang!",
+            "url": "/"
+        },
+        "image": {
+            "desktop": "/images/home/masthead-desktop.png",
+            "mobile": "/images/home/masthead-mobile.png"
+        }
+    },
+    "card_collection": { 
+        "card_testimonial": {
+            "testimonials": [
+                {
+                    "emoji": "💌",
+                    "avatar": "/images/avatar.png",
+                    "name": "Tommyansyah",
+                    "title": "Suara Dari Mulut Ke Mulut",
+                    "feedback":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+                    "rating": 3,
+                    "created_at": "04/07/2023"
+                },
+                {   
+                    "emoji": "💌",
+                    "avatar": "/images/avatar.png",
+                    "name": "Nadi Herlambang",
+                    "title": "Suara Dari Mulut Ke Mulut",
+                    "feedback":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+                    "rating": 5,
+                    "created_at": "01/07/2023"
+                },
+                {   
+                    "emoji": "💌",
+                    "avatar": "/images/avatar.png",
+                    "name": "Albert Ade",
+                    "title": "Suara Dari Mulut Ke Mulut",
+                    "feedback":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+                    "rating": 5,
+                    "created_at": "01/06/2023"
+                }
+            ],
+            "link": {
+                "title": "Lihat Semua Testimoni & Portfolio",
+                "url": "/testimonial"
+            }
+        },
+        "card_feature": {
+            "emoji": "🧩",
+            "title": "Membawa Perayaanmu Ke Level Selanjutnya",
+            "content": "Ragam pilihan fitur yang mengesankan untuk membuat undangan yang mencuri perhatian",
+            "link": {
+                "title": "Lihat Lebih Detil",
+                "url": "/feature"
+            }
+        },
+        "card_order_step": {
+            "emoji": "💝",
+            "title": "Langkah Menuju Momen Spesial",
+            "content": "Ikuti langkah sederhana dan nikmati kemudahan dalam mewujudkan perayaan impian mu.",
+            "galleries": [
+                {
+                    "title": "Galeri 1",
+                    "kv": "/images/home/dummy-gallery.png",
+                    "description": ""
+                },
+                {
+                    "title": "Galeri 2",
+                    "kv": "/images/home/dummy-gallery-2.png",
+                    "description": ""
+                },
+                {
+                    "title": "Galeri 3",
+                    "kv": "/images/home/dummy-gallery.png",
+                    "description": ""
+                }
+            ],
+            "link": {
+                "title": "Order Sekarang",
+                "url": "/order"
+            }
+        }
+    }
+}
